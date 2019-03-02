@@ -1,0 +1,9 @@
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\bin\Debug\Kasatelnaya.exe.config
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\bin\Debug\Kasatelnaya.exe
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\bin\Debug\Kasatelnaya.pdb
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\obj\Debug\BezierCurve.Form1.resources
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\obj\Debug\Kasatelnaya.Properties.Resources.resources
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\obj\Debug\Bezier curve.csproj.GenerateResource.cache
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\obj\Debug\Bezier curve.csproj.CoreCompileInputs.cache
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\obj\Debug\Kasatelnaya.exe
+C:\Users\m9kha\source\repos\Graphics\Bezier\Kasatelnaya\obj\Debug\Kasatelnaya.pdb
